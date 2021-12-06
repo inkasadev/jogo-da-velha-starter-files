@@ -6,8 +6,8 @@ O jogo da velha é um jogo e/ou passatempo popular. É um jogo de regras extrema
 
 Nesse projeto nós iremos utilizar uma biblioteca chamada [lemonadejs](https://lemonadejs.net/), que nos permite construir interfaces reativas sem a necessidade de transpiladores, como babel, ou centenas de outras dependências, além de funcionar bem em qualquer ambiente de desenvolvimento Javascript. A lemonadejs tem uma curva de aprendizado rápida e muito próxima do javascript puro. Iremos utilizá-la para manter a interface e os dados do nosso jogo sincronizados de uma forma extremamente simples.
 
-- Você pode conferir o resultado final do projeto clicando aqui.
-- Assista ao passo a passo (em 45 minutos) clicando aqui.
+- Você pode conferir o resultado final do projeto [clicando aqui](https://jogodavelha-lemonade.surge.sh/).
+- Assista ao passo a passo (em 45 minutos) [clicando aqui](https://youtu.be/l-yayO3izVg).
 
 ![Preview](/preview.png)
 
